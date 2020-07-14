@@ -7,7 +7,7 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
+  username: "Yichen Dai",
   title: "Hi all, I'm Yichen",
   subTitle: emoji("A passionate Software Developer 🚀 having experience of building Web applications with JavaScript / Python / Flask / PostgresSQL and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/123-6H9PVPWOgi_FyrPP7ISOykc1nkGgM/view?usp=sharing"
@@ -20,10 +20,7 @@ const socialMediaLinks = {
   github: "https://github.com/nancydyc",
   linkedin: "https://www.linkedin.com/in/daiyichen/",
   gmail: "msdaiyichen@gmail.com",
-  // gitlab: "https://gitlab.com/saadpasta",
-  // facebook: "https://www.facebook.com/saad.pasta7"
-  // Instagram and Twitter are also supported in the links!
-};
+  };
 
 // Your Skills Section
 
