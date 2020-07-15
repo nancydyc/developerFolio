@@ -107,29 +107,35 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Software Engineer Intern",
+      company: "DialoggBox",
+      companylogo: require("./assets/images/dialoggBox.png"),
+      date: "June 2020 – Present",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Developed a customer facing add-on for G Suite integrating DialoggBox API to help the company reach more clients in the marketplace and covered 100% users in the company.",
+        "Coordinated and assisted in organizing meetings, demos, webinars, online conferences, and administrative needs related to the product."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "World Language Department Chiar & Mandarin Teacher",
+      company: "San Francisco Unified School District ",
+      companylogo: require("./assets/images/sfusd.png"),
+      date: "Aug 2016 – Present",
+      descBullets: [
+        "Initiated the first bilingual program. Designed the online Chinese language curriculum and the website msdaiyichen.weebly.com.",
+        "Planned and executed fun festivities such as Celebrity project and Musical Video contest."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Marketing and Sales Management Trainee",
+      company: "Longfor Properties Co. Ltd",
+      companylogo: require("./assets/images/Longfor20Properties.jpg"),
+      date: "May 2012 – Jun 2014",
+      descBullets: [
+      "Managed the sales center of Fantastic Garden Apartments. Worked extensively with crossfunctional teams and improved customer satisfaction to over 90%.",
+      "Oversaw every sales-related live show for Fantastic Garden Apartments sales project, improving the sales revenue to 130 million RMB to achieve monthly top real estate sales project twice in Shanghai."
+      ]
     },
   ]
 };
