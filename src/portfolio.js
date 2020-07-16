@@ -10,7 +10,7 @@ const greeting = {
   username: "Yichen Dai",
   title: "Hi all, I'm Yichen",
   subTitle: emoji("A passionate Software Developer 🚀 having experience of building Web applications with JavaScript / Python / Flask / PostgresSQL and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/123-6H9PVPWOgi_FyrPP7ISOykc1nkGgM/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1jrwRmiZWzOKnMyVl8cdueGCMvjAL_rrl/view?usp=sharing"
 };
 
 // Your Social Media Link
