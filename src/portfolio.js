@@ -153,16 +153,20 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "My individual projects and hackathon team projects.",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/"
+      image: require("./assets/images/bestNeighbor.png"),
+      link: "http://github.com/Hackbright-Covid-19-Hackathon"
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/"
+      image: require("./assets/images/smartInvestor.png"),
+      link: "http://www.yichendai.com/"
+    },
+    {
+      image: require("./assets/images/tomtom.png"),
+      link: "http://github.com/nancydyc/Happy-Happy-Hour"
     }
   ]
 };
