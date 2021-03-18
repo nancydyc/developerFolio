@@ -10,7 +10,7 @@ const greeting = {
   username: "Yichen Dai",
   title: "Hi all, I'm Yichen",
   subTitle: emoji("A passionate Software Developer 🚀 having experience of building Web applications with JavaScript / Python / Flask / PostgresSQL and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1jrwRmiZWzOKnMyVl8cdueGCMvjAL_rrl/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1dlRMUUjflvaMOizXGdepK3oEORC2WlxQ/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -26,7 +26,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "ENTHUSIASTIC FULL STACK DEVELOPER WHO IS HAPPY TO LEARN NEW TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web applications"),
     emoji("⚡ Progressive Web Applications in the Serverless Stacks"),
@@ -62,10 +62,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
@@ -87,11 +83,11 @@ const techStack = {
   experience: [
     {
       Stack: "Python",  //Insert stack or technology you have experience in
-      progressPercentage: "80%"  //Insert relative proficiency in percentage
+      progressPercentage: "85%"  //Insert relative proficiency in percentage
     },
     {
       Stack: "Data Structure & Algorigthms",
-      progressPercentage: "65%"
+      progressPercentage: "70%"
     },
     {
       Stack: "Project Management",
@@ -106,6 +102,18 @@ const techStack = {
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Engineer Ops and Community Manager",
+      company: "Elementl",
+      companylogo: require("./assets/images/dagster.png"),
+      date: "September 2020 – March 2021",
+      desc: "",
+      descBullets: [
+        "Designed and implemented a batch data pipeline to process Slack data using Python, stored processed data in the Snowflake database and ingested user data to the HubSpot CRM saving ten minutes of each researcher’s manual work every day",
+        "Wrote the technical documentation to address the frequently asked questions and maintained the tests of generating the screenshots and comparing visual difference.",
+        "Designed the process of engaging community members and increased the number of the monthly community meeting participants by 200%"
+      ]
+    },
     {
       role: "Software Engineer Intern",
       company: "DialoggBox",
