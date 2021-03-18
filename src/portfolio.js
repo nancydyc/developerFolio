@@ -189,7 +189,7 @@ const bigProjects = {
     {
       image: require("./assets/images/tomtom.png").default,
       projectName: "Happy Happy Hour",
-      projectDesc: "A full stack app aims at preventing food waste by displaying nearby happy hour locations with TOMTOM Map API.",
+      projectDesc: "A full stack web app aims at preventing food waste by displaying nearby happy hour offers on the map through TOMTOM API.",
       footerLink:[
         {
           name: "More",
