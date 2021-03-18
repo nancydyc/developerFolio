@@ -109,9 +109,9 @@ const workExperiences = {
       date: "September 2020 – March 2021",
       desc: "",
       descBullets: [
-        "Designed and implemented a batch data pipeline to process Slack data using Python, stored processed data in the Snowflake database and ingested user data to the HubSpot CRM saving ten minutes of each researcher’s manual work every day",
+        "Designed and implemented a batch data pipeline to process Slack data using Python, stored processed data in the Snowflake database and ingested user data to the HubSpot CRM saving ten minutes of each researcher’s manual work every day.",
         "Wrote the technical documentation to address the frequently asked questions and maintained the tests of generating the screenshots and comparing visual difference.",
-        "Designed the process of engaging community members and increased the number of the monthly community meeting participants by 200%"
+        "Designed the process of engaging community members and increased the number of the monthly community meeting participants by 200%."
       ]
     },
     {
@@ -162,19 +162,51 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "My individual projects and hackathon team projects.",
+  subtitle: "My personal projects and hackathon team projects.",
   projects: [
     {
       image: require("./assets/images/bestNeighbor.png").default,
-      link: "http://github.com/Hackbright-Covid-19-Hackathon"
+      projectName: "BestNeighbor",
+      projectDesc: "Software solution that drive social impact, with the aim of tackling some of the challenges related to the coronavirus (COVID-19) pandemic.",
+      footerLink:[
+        {
+          name: "More",
+          url: "http://github.com/Hackbright-Covid-19-Hackathon"
+        }
+      ]
     },
     {
       image: require("./assets/images/smartInvestor.png").default,
-      link: "http://www.yichendai.com/"
+      projectName: "Smart Investor",
+      projectDesc: "A full stack web app allows the users to search stocks, filter stocks by price range, bookmark stocks and visualize price data interactively.",
+      footerLink:[
+        {
+          name: "More",
+          url: "http://www.yichendai.com/"
+        }
+      ]
     },
     {
       image: require("./assets/images/tomtom.png").default,
-      link: "http://github.com/nancydyc/Happy-Happy-Hour"
+      projectName: "Happy Happy Hour",
+      projectDesc: "A full stack app aims at preventing food waste by displaying nearby happy hour locations with TOMTOM Map API.",
+      footerLink:[
+        {
+          name: "More",
+          url: "http://github.com/nancydyc/Happy-Happy-Hour"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/webScraping.png").default,
+      projectName: "Web Scraping",
+      projectDesc: "A tech talk on what is web scraping and demonstrating how to do web scraping with BeautifulSoup, requests and Python.",
+      footerLink:[
+        {
+          name: "More",
+          url: "https://docs.google.com/presentation/d/15Qm58mESMCjEZIeGQShbILD68rpd22-zKfVnewXdAj8/edit?usp=sharing"
+        }
+      ]
     }
   ]
 };
@@ -227,12 +259,12 @@ const blogSection = {
     {
       url: "https://nancydai.medium.com/develop-my-first-gmail-add-on-via-google-apps-script-my-software-engineer-internship-at-dialoggbox-e05d93d3a345",
       title: "Develop My First Gmail Add-on via Google Apps Script: My Software Engineer Internship at dialoggBox",
-      description: "An internship opportunity to develop a gmail add-on product at dialoggBox to gain my first industry experience and learn how to work with key stakeholders"
+      description: "An internship opportunity to develop a gmail add-on product at dialoggBox to gain my first industry experience and learn how to work with key stakeholders."
     },
     {
       url: "https://nancydai.medium.com/transferrable-skills-project-management-across-tech-and-non-tech-careers-a2e3f40f5206",
       title: "Transferrable Skill: Project Management across Tech and Non-Tech Careers",
-      description: "Discuss the similarity and difference between managing an educational project and an engineering project"
+      description: "Discuss the similarity and difference between managing an educational project and an engineering project."
     }
   ]
 };
