@@ -23,7 +23,7 @@ export default function Contact() {
                     </div>
                 </div>
                 <div className="contact-image-div">
-                    <img alt="Yichen Working" src={require("../../assets/images/contactMe.png")}></img>
+                    <img alt="Yichen Working" src={require("../../assets/images/contactMe.png").default}></img>
                 </div>
             </div>
         </div>

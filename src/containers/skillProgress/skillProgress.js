@@ -27,7 +27,7 @@ export default function StackProgress() {
                 </div>
 
                 <div className="skills-image">
-                    <img alt="Skills" src={require("../../assets/images/proficiency.png")} />
+                    <img alt="Skills" src={require("../../assets/images/proficiency.png").default} />
                 </div>
 
             </div>

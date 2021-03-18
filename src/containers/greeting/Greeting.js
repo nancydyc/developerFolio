@@ -28,7 +28,7 @@ export default function Greeting() {
           </div>
         </div>
         <div className="greeting-image-div">
-          <img alt="Yichen say hi" src={require("../../assets/images/greeting.png")}></img>
+          <img alt="Yichen say hi" src={require("../../assets/images/greeting.png").default}></img>
         </div>
       </div>
     </div>

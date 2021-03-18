@@ -105,7 +105,7 @@ const workExperiences = {
     {
       role: "Engineer Ops and Community Manager",
       company: "Elementl",
-      companylogo: require("./assets/images/dagster.png"),
+      companylogo: require("./assets/images/dagster.png").default,
       date: "September 2020 – March 2021",
       desc: "",
       descBullets: [
@@ -117,7 +117,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "DialoggBox",
-      companylogo: require("./assets/images/dialoggBox.png"),
+      companylogo: require("./assets/images/dialoggBox.png").default,
       date: "June 2020 – Present",
       desc: "",
       descBullets: [
@@ -128,7 +128,7 @@ const workExperiences = {
     {
       role: "World Language Department Chiar & Mandarin Teacher",
       company: "San Francisco Unified School District ",
-      companylogo: require("./assets/images/sfusd.png"),
+      companylogo: require("./assets/images/sfusd.png").default,
       date: "Aug 2016 – Present",
       descBullets: [
         "Initiated the first bilingual program. Designed the online Chinese language curriculum and the website msdaiyichen.weebly.com.",
@@ -138,7 +138,7 @@ const workExperiences = {
     {
       role: "Marketing and Sales Management Trainee",
       company: "Longfor Properties Co. Ltd",
-      companylogo: require("./assets/images/Longfor20Properties.jpg"),
+      companylogo: require("./assets/images/Longfor20Properties.jpg").default,
       date: "May 2012 – Jun 2014",
       descBullets: [
       "Managed the sales center of Fantastic Garden Apartments. Worked extensively with crossfunctional teams and improved customer satisfaction to over 90%.",
@@ -165,15 +165,15 @@ const bigProjects = {
   subtitle: "My individual projects and hackathon team projects.",
   projects: [
     {
-      image: require("./assets/images/bestNeighbor.png"),
+      image: require("./assets/images/bestNeighbor.png").default,
       link: "http://github.com/Hackbright-Covid-19-Hackathon"
     },
     {
-      image: require("./assets/images/smartInvestor.png"),
+      image: require("./assets/images/smartInvestor.png").default,
       link: "http://www.yichendai.com/"
     },
     {
-      image: require("./assets/images/tomtom.png"),
+      image: require("./assets/images/tomtom.png").default,
       link: "http://github.com/nancydyc/Happy-Happy-Hour"
     }
   ]
