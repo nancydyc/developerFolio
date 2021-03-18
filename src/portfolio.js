@@ -225,14 +225,14 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+      url: "https://nancydai.medium.com/develop-my-first-gmail-add-on-via-google-apps-script-my-software-engineer-internship-at-dialoggbox-e05d93d3a345",
+      title: "Develop My First Gmail Add-on via Google Apps Script: My Software Engineer Internship at dialoggBox",
+      description: "An internship opportunity to develop a gmail add-on product at dialoggBox to gain my first industry experience and learn how to work with key stakeholders"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://nancydai.medium.com/transferrable-skills-project-management-across-tech-and-non-tech-careers-a2e3f40f5206",
+      title: "Transferrable Skill: Project Management across Tech and Non-Tech Careers",
+      description: "Discuss the similarity and difference between managing an educational project and an engineering project"
     }
   ]
 };
