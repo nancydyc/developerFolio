@@ -103,14 +103,14 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Engineer Ops and Community Manager",
+      role: "Engineer Ops and Community Management",
       company: "Elementl",
       companylogo: require("./assets/images/dagster.png").default,
       date: "September 2020 – March 2021",
       desc: "",
       descBullets: [
-        "Designed and implemented a batch data pipeline to process Slack data using Python, stored processed data in the Snowflake database and ingested user data to the HubSpot CRM saving ten minutes of each researcher’s manual work every day.",
-        "Wrote the technical documentation to address the frequently asked questions and maintained the tests of generating the screenshots and comparing visual difference.",
+        "Designed and implemented a batch data pipeline to process Slack data using Python, stored processed data in the Snowflake database and ingested data to the HubSpot CRM, reducing researchers' manual work by 10 minutes daily.",
+        "Wrote sample applications and the technical documentation to address the frequently asked questions and maintained the tests of generating the screenshots.",
         "Designed the process of engaging community members and increased the number of the monthly community meeting participants by 200%."
       ]
     },
@@ -121,7 +121,7 @@ const workExperiences = {
       date: "June 2020 – Sep 2020",
       desc: "",
       descBullets: [
-        "Developed a customer facing add-on for G Suite integrating DialoggBox API to help the company reach more clients in the marketplace and covered 100% users in the company.",
+        "Developed a customer facing add-on for G Suite with DialoggBox API enabling the company to reach more clients in the marketplace and covered 100% users in the company.",
         "Coordinated and assisted in organizing meetings, demos, webinars, online conferences, and administrative needs related to the product."
       ]
     },
