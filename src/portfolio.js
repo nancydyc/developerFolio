@@ -118,7 +118,7 @@ const workExperiences = {
       role: "Software Engineer Intern",
       company: "DialoggBox",
       companylogo: require("./assets/images/dialoggBox.png").default,
-      date: "June 2020 – Present",
+      date: "June 2020 – Sep 2020",
       desc: "",
       descBullets: [
         "Developed a customer facing add-on for G Suite integrating DialoggBox API to help the company reach more clients in the marketplace and covered 100% users in the company.",
@@ -129,20 +129,10 @@ const workExperiences = {
       role: "World Language Department Chiar & Mandarin Teacher",
       company: "San Francisco Unified School District ",
       companylogo: require("./assets/images/sfusd.png").default,
-      date: "Aug 2016 – Present",
+      date: "Aug 2016 – Jun 2020",
       descBullets: [
         "Initiated the first bilingual program. Designed the online Chinese language curriculum and the website msdaiyichen.weebly.com.",
         "Planned and executed fun festivities such as Celebrity project and Musical Video contest."
-      ]
-    },
-    {
-      role: "Marketing and Sales Management Trainee",
-      company: "Longfor Properties Co. Ltd",
-      companylogo: require("./assets/images/Longfor20Properties.jpg").default,
-      date: "May 2012 – Jun 2014",
-      descBullets: [
-      "Managed the sales center of Fantastic Garden Apartments. Worked extensively with crossfunctional teams and improved customer satisfaction to over 90%.",
-      "Oversaw every sales-related live show for Fantastic Garden Apartments sales project, improving the sales revenue to 130 million RMB to achieve monthly top real estate sales project twice in Shanghai."
       ]
     },
   ]
