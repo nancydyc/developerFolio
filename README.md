@@ -189,7 +189,7 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 
 #### Deploying to Heroku
 
-You can host your app via Heroku as well. Use the Heroku button below and add an app.json file.
+You can host via Heroku as well. Add an app.json file and embed the Heroku button below in the README.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
